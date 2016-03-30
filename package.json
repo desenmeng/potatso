@@ -1,6 +1,6 @@
 {
   "name": "potatso",
-  "version": "0.0.0",
+  "version": "0.2.1",
   "description": "convert surge config to potatso config",
   "main": "index.js",
   "scripts": {
